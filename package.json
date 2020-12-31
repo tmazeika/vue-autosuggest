@@ -56,12 +56,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/darrenjennings/vue-autosuggest.git"
+    "url": "https://github.com/tmazeika/vue-autosuggest.git"
   },
   "bugs": {
-    "url": "https://github.com/darrenjennings/vue-autosuggest/issues"
+    "url": "https://github.com/tmazeika/vue-autosuggest/issues"
   },
-  "homepage": "https://github.com/darrenjennings/vue-autosuggest#readme",
+  "homepage": "https://github.com/tmazeika/vue-autosuggest#readme",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
